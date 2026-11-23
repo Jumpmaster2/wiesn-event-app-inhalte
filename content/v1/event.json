@@ -1,0 +1,416 @@
+{
+  "schemaVersion": 1,
+  "updatedAt": "2026-11-23T21:00:00+01:00",
+  "event": {
+    "name": "Eschweiler Wiesn",
+    "subtitle": "Das größte Oktoberfest der Euregio",
+    "edition": "2027",
+    "timeZone": "Europe/Berlin",
+    "days": [
+      {
+        "date": "2027-09-17",
+        "label": "Freitag",
+        "opens": "16:30",
+        "closes": "01:00"
+      },
+      {
+        "date": "2027-09-18",
+        "label": "Samstag",
+        "opens": "15:30",
+        "closes": "01:00"
+      }
+    ],
+    "venue": {
+      "name": "Festzelt Eschweiler Wiesn",
+      "address": "Am Kraftwerk, 52249 Eschweiler (Wiese gegenüber dem Kraftwerk-Parkplatz)",
+      "lat": null,
+      "lon": null,
+      "placeholder": true
+    },
+    "ticketUrl": "https://eschweiler-wiesn.ticket.io/",
+    "contactEmail": "info@eschweiler-wiesn.de",
+    "website": "https://eschweiler-wiesn.de/",
+    "imprintUrl": "https://eschweiler-wiesn.de/impressum/",
+    "privacyUrl": "https://eschweiler-wiesn.de/datenschutz/",
+    "social": [
+      {
+        "type": "instagram",
+        "label": "Instagram",
+        "url": "https://www.instagram.com/eschweilerwiesn/"
+      },
+      {
+        "type": "facebook",
+        "label": "Facebook",
+        "url": "https://www.facebook.com/@eschweilerwiesn"
+      },
+      {
+        "type": "tiktok",
+        "label": "TikTok",
+        "url": "https://www.tiktok.com/@eschweilerwiesn"
+      }
+    ]
+  },
+  "notices": [
+    {
+      "id": "testversion",
+      "date": "2026-11-23",
+      "title": "Testversion",
+      "text": "Die Zeiten im Programm und der Geländeplan sind noch vorläufig.",
+      "important": true
+    },
+    {
+      "id": "vorverkauf",
+      "date": "2026-11-23",
+      "title": "Tickets nur online",
+      "text": "Tickets gibt es nur im Onlineverkauf, eine Abendkasse gibt es nicht. Einlass ab 18 Jahren.",
+      "important": false
+    }
+  ],
+  "artists": [
+    {
+      "id": "mia-julia",
+      "name": "Mia Julia",
+      "description": ""
+    },
+    {
+      "id": "frenzy",
+      "name": "Frenzy",
+      "description": ""
+    },
+    {
+      "id": "julian-sommer",
+      "name": "Julian Sommer",
+      "description": ""
+    },
+    {
+      "id": "mike-leon-grosch",
+      "name": "Mike Leon Grosch",
+      "description": ""
+    },
+    {
+      "id": "domstuermer",
+      "name": "Domstürmer",
+      "description": ""
+    },
+    {
+      "id": "calvin-kleinen",
+      "name": "Calvin Kleinen",
+      "description": ""
+    },
+    {
+      "id": "brings",
+      "name": "Brings",
+      "description": ""
+    },
+    {
+      "id": "grabenland-buam",
+      "name": "Grabenland Buam",
+      "description": "Spielfreude in Perfektion, das ist das Motto der fünf Jungs aus Kärnten in Österreich. Die langjährige und professionelle Bühnenerfahrung in bekannten Bands aus der Rock- und Volksmusikszene gibt die nötige Würze in der Live-Performance. „Die Grabenlandbuam“ verbindet Modernes mit Traditionellem und bietet so ein umfangreiches und energiegeladenes Programm für das Publikum."
+    }
+  ],
+  "timetable": {
+    "placeholder": true,
+    "stages": [
+      {
+        "id": "festzelt",
+        "name": "Festzelt"
+      }
+    ],
+    "slots": [
+      {
+        "id": "fr-01",
+        "day": "2027-09-17",
+        "start": "16:30",
+        "end": "18:00",
+        "stage": "festzelt",
+        "title": "Einlass mit Wiesn-DJ Rouven Schmitz"
+      },
+      {
+        "id": "fr-02",
+        "day": "2027-09-17",
+        "start": "18:00",
+        "end": "19:30",
+        "stage": "festzelt",
+        "artistId": "grabenland-buam"
+      },
+      {
+        "id": "fr-03",
+        "day": "2027-09-17",
+        "start": "19:45",
+        "end": "20:30",
+        "stage": "festzelt",
+        "artistId": "domstuermer"
+      },
+      {
+        "id": "fr-04",
+        "day": "2027-09-17",
+        "start": "20:45",
+        "end": "21:30",
+        "stage": "festzelt",
+        "artistId": "mike-leon-grosch"
+      },
+      {
+        "id": "fr-05",
+        "day": "2027-09-17",
+        "start": "21:45",
+        "end": "22:30",
+        "stage": "festzelt",
+        "artistId": "mia-julia"
+      },
+      {
+        "id": "fr-06",
+        "day": "2027-09-17",
+        "start": "22:30",
+        "end": "01:00",
+        "stage": "festzelt",
+        "artistId": "grabenland-buam"
+      },
+      {
+        "id": "sa-01",
+        "day": "2027-09-18",
+        "start": "15:30",
+        "end": "17:00",
+        "stage": "festzelt",
+        "title": "Einlass mit Wiesn-DJ Rouven Schmitz"
+      },
+      {
+        "id": "sa-02",
+        "day": "2027-09-18",
+        "start": "17:00",
+        "end": "18:30",
+        "stage": "festzelt",
+        "artistId": "grabenland-buam"
+      },
+      {
+        "id": "sa-03",
+        "day": "2027-09-18",
+        "start": "18:45",
+        "end": "19:30",
+        "stage": "festzelt",
+        "artistId": "calvin-kleinen"
+      },
+      {
+        "id": "sa-04",
+        "day": "2027-09-18",
+        "start": "19:45",
+        "end": "20:30",
+        "stage": "festzelt",
+        "artistId": "julian-sommer"
+      },
+      {
+        "id": "sa-05",
+        "day": "2027-09-18",
+        "start": "20:45",
+        "end": "21:30",
+        "stage": "festzelt",
+        "artistId": "frenzy"
+      },
+      {
+        "id": "sa-06",
+        "day": "2027-09-18",
+        "start": "21:45",
+        "end": "22:45",
+        "stage": "festzelt",
+        "artistId": "brings"
+      },
+      {
+        "id": "sa-07",
+        "day": "2027-09-18",
+        "start": "22:45",
+        "end": "01:00",
+        "stage": "festzelt",
+        "artistId": "grabenland-buam"
+      }
+    ]
+  },
+  "abc": [
+    {
+      "term": "Abendkasse",
+      "text": "Wir bieten nur einen Onlineverkauf auf www.eschweiler-wiesn.de an."
+    },
+    {
+      "term": "Adresse",
+      "text": "Die Veranstaltung findet auf der Wiese gegenüber dem Kraftwerk Parkplatz; Am Kraftwerk, 52249 Eschweiler statt."
+    },
+    {
+      "term": "Altersbeschränkung",
+      "text": "Der Einlass ist ab 18 Jahre"
+    },
+    {
+      "term": "Besucher",
+      "text": "Die Eschweiler Wiesn ist ein Fest für Jung und Alt, Groß und Klein, Arm und Reich. Im Mittelpunkt steht der Spaß an bayerischer Gemütlichkeit, deftigen Genüssen und einer zünftigen Gaudi – Jeder ab 18 Jahren ist willkommen!"
+    },
+    {
+      "term": "Biergarten",
+      "text": "Vor dem Zelt befindet sich ein wunderschöner Biergarten mit verschiedenen Buden, Aussteller und Speisenmöglichkeiten"
+    },
+    {
+      "term": "Dirndl",
+      "text": "Eine große Auswahl an Dirndln, Lederhosen, Trachten und Accessoires für fesche Madln und zünftige Buam gibt`s beim offiziellen Trachtenpartner der Eschweiler Wiesn, Lederhosenland in der Kleinkölnstraße 20 in Aachen zu kaufen."
+    },
+    {
+      "term": "DJ",
+      "text": "Neben den Wiesenbands und bekannten Stargästen sorgen unser Moderator Marc Engelhardt und Wiesn-DJ Rouven Schmitz an beiden Veranstaltungstagen für eine Riesenstimmung im Zelt."
+    },
+    {
+      "term": "Eintritt",
+      "text": "Die Eintrittspreise variieren in den einzelnen Veranstaltungsrubriken. Tickets sind schon ab EUR 41,90€ (zuzüglich Gebühren) erhältlich. Alle Infos zu den Ticket-Kategorien erhaltet Ihr unter Tickets."
+    },
+    {
+      "term": "Essen",
+      "text": "Selbstverständlich halten wir eine Auswahl bayerischer Schmankerln für den großen und kleinen Hunger auf dem Veranstaltungsgelände bereit. Die Mitnahme von Speisen ist nicht gestattet."
+    },
+    {
+      "term": "Festbier",
+      "text": "Wir als Veranstalter der Eschweiler Wiesn sind sehr stolz, mit Spaten Münchner Hell ein Festbier zu haben, welches perfekt zu unserer Philosophie passt."
+    },
+    {
+      "term": "Festzelt",
+      "text": "Das Festzelt befindet sich gegenüber dem Kraftwerkparkplatzt in Eschweiler Weisweiler. Um das Festzelt herum entstehen viele Highlights, die das Wiesn Feeling abrunden. Freut euch drauf!"
+    },
+    {
+      "term": "Garderobe",
+      "text": "Wir bieten Schließfächer für Wertsachen + Jacken an, die Ihr vorher bequem online buchen oder vor Ort per EAN-Code bezahlen könnt. Wir übernehmen hier keinerlei Haftungsansprüche."
+    },
+    {
+      "term": "Getränke",
+      "text": "Durst ist schlimmer als Heimweh – deshalb halten wir süffiges Maßbier und eine reichhaltige Auswahl an kühlen Getränken für Euch bereit."
+    },
+    {
+      "term": "Hotel",
+      "text": "In unmittelbarer Nähe befinden sich verschiedene Hotels, die für die Gäste der Eschweiler Wiesn Zimmer bereithalten. Das B&B Hotel in Eschweiler ist das offizielle Partner-Hotel der Eschweiler Wiesn und nur ein paar Minuten vom Festzelt entfernt."
+    },
+    {
+      "term": "Kleiderordnung",
+      "text": "Das Trachten voll im Trend sind, hat sich inzwischen von Garmisch bis nach Flensburg herumgesprochen. Trotzdem besteht kein „Verkleidungszwang“ und auch überzeugte Trachtengegner sind herzlich willkommen!"
+    },
+    {
+      "term": "Kontakt",
+      "text": "Für Wünsche, Anregungen oder Fragen rund um die Eschweiler Wiesn steht unser Kontaktformular zur Verfügung. Ihr könnt aber auch jederzeit eine E-Mail an info@eschweiler-wiesn.de senden."
+    },
+    {
+      "term": "Lederhosenland",
+      "text": "Lederhosenland ist der offizielle Trachtenpartner der Eschweiler Wiesn. Ob Karohemd, Halstuch oder ein komplettes Dirndl – hier findet Ihr die passende Ausstattung für Euren Wiesn-Besuch!"
+    },
+    {
+      "term": "Musik",
+      "text": "Unsere Wiesnband hat eine langjährige Bühnenerfahrung und schon manches Festzelt zum Kochen gebracht! Gespielt wird alles was Spaß macht, und das so gut, dass es Keinen lange auf dem Platz hält! Von Schlager, Après-Ski- und Wiesnhits über Oldies and Goldies bis hin zu aktuellen Rock- und Pop-Hymnen – erlaubt ist, was gefällt!"
+    },
+    {
+      "term": "Öffnungszeiten",
+      "text": "Festzelt + Biergarten: •\tFreitags: 16:30 Uhr bis 01.00 Uhr •\tSamstags: 15:30 Uhr bis 01.00 Uhr"
+    },
+    {
+      "term": "Parkplätze",
+      "text": "Auf dem Veranstaltungsgelände stehen ausreichend bewachte Parkplätze zur Verfügung. Eine Parkgebühr von EUR 5, – pro Fahrzeug wird erhoben. Bitte folgt den Schildern am Veranstaltungsgelände. Achtung: Die Autos müssen bis zum Folgetag um 12 Uhr vom Parkplatz entfernt sein, sonst werden diese Kostenpflichtig abgeschleppt."
+    },
+    {
+      "term": "Partner",
+      "text": "Wir bedanken uns bei allen Partnern/ Sponsoren der Eschweiler Wiesn, ohne deren Unterstützung die Durchführung der Veranstaltung nicht möglich gewesen wäre."
+    },
+    {
+      "term": "Rauchen",
+      "text": "Mit Rücksicht auf alle Nichtraucher ist das Rauchen im Festzelt nicht gestattet. Für alle Raucher steht der großzügige Biergarten + unser Außenbereich zur Verfügung."
+    },
+    {
+      "term": "Reservierte Tische",
+      "text": "\"Können wir auch einen Tisch für 10 Leute reservieren?\" – Falls Ihr mit einer Gruppe von 10 Leuten einen Tisch reservieren wollen, so bucht einfach online einen Tisch (für 8 Personen) und kaufen online noch 2 Einzelkarten dazu (Natürlich nur solange der Vorrat an Karten reicht)."
+    },
+    {
+      "term": "Stargäste",
+      "text": "An beiden Veranstaltungstagen freuen wir uns auf mehrere prominenten Stargäste, die mit Ihrer mitreißenden Show begeistern werden! Näheres hierzu findet Ihr unter Programm."
+    },
+    {
+      "term": "Schlemmermeile",
+      "text": "Vor dem Zelt wird eine tolle Schlemmermeile mit vielen Schaustellern und Attraktionen aufgebaut und rundet unsere Veranstaltung ab."
+    },
+    {
+      "term": "Toiletten",
+      "text": "Auf dem Veranstaltungsgelände befinden sich ausreichend Toiletten, die gegen eine Reinigungsgebühr benutzt werden können."
+    },
+    {
+      "term": "Vorverkauf",
+      "text": "Tickets für die Eschweiler Wiesn erhaltet Ihr nur online über www.eschweiler-wiesn.de"
+    },
+    {
+      "term": "Wiesnband",
+      "text": "Spielfreude in Perfektion, das ist das Motto der fünf Jungs aus Kärnten in Österreich. Die langjährige und professionelle Bühnenerfahrung in bekannten Bands aus der Rock- und Volksmusikszene gibt die nötige Würze in der Live-Performance. „Die Grabenlandbuam“ verbindet Modernes mit Traditionellem und bietet so ein umfangreiches und energiegeladenes Programm für das Publikum."
+    },
+    {
+      "term": "Wertmarken",
+      "text": "Im Festzelt kann nur mit Wertmarken bzw. mit Eschweiler Wiesn TOKEN bezahlt werden. Der Umtausch von TOKEN ist ausgeschlossen."
+    },
+    {
+      "term": "Zünftig",
+      "text": "Wir möchten Euch eine zünftige Gaudi bieten und freuen uns auf Euren Besuch auf den Eschweiler Wiesn."
+    }
+  ],
+  "map": {
+    "plan": {
+      "image": null,
+      "aspectRatio": 1.4,
+      "note": "Nicht maßstabsgetreu, der Lageplan folgt.",
+      "placeholder": true
+    },
+    "pois": [
+      {
+        "id": "zelt",
+        "type": "buehne",
+        "name": "Festzelt mit Bühne",
+        "x": 0.5,
+        "y": 0.3,
+        "description": "Nichtraucherbereich"
+      },
+      {
+        "id": "biergarten",
+        "type": "biergarten",
+        "name": "Biergarten",
+        "x": 0.5,
+        "y": 0.6,
+        "description": "Vor dem Zelt, mit Buden und Rauchbereich"
+      },
+      {
+        "id": "schlemmermeile",
+        "type": "essen",
+        "name": "Schlemmermeile",
+        "x": 0.28,
+        "y": 0.62
+      },
+      {
+        "id": "eingang",
+        "type": "eingang",
+        "name": "Eingang",
+        "x": 0.5,
+        "y": 0.85
+      },
+      {
+        "id": "garderobe",
+        "type": "garderobe",
+        "name": "Garderobe und Schließfächer",
+        "x": 0.72,
+        "y": 0.78
+      },
+      {
+        "id": "wc",
+        "type": "wc",
+        "name": "Toiletten",
+        "x": 0.82,
+        "y": 0.45
+      },
+      {
+        "id": "parken",
+        "type": "parken",
+        "name": "Parkplatz",
+        "x": 0.15,
+        "y": 0.9,
+        "description": "5 € pro Fahrzeug"
+      }
+    ],
+    "arrival": {
+      "address": "Am Kraftwerk, 52249 Eschweiler",
+      "parkingText": "Auf dem Veranstaltungsgelände stehen ausreichend bewachte Parkplätze zur Verfügung. Eine Parkgebühr von EUR 5, – pro Fahrzeug wird erhoben. Bitte folgt den Schildern am Veranstaltungsgelände. Achtung: Die Autos müssen bis zum Folgetag um 12 Uhr vom Parkplatz entfernt sein, sonst werden diese Kostenpflichtig abgeschleppt.",
+      "publicTransportText": "Infos zu Bus und Bahn folgen.",
+      "placeholder": true
+    }
+  }
+}
