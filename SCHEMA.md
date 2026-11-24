@@ -5,6 +5,7 @@
 | `schemaVersion` | immer `1` |
 | `updatedAt` | Zeitstempel der letzten Änderung (ISO 8601) |
 | `event.name`, `subtitle`, `edition` | Name, Unterzeile, Jahrgang |
+| `event.heroImage` | Titelbild der Startseite, relativ (z. B. `img/hero.webp`), optional |
 | `event.timeZone` | `Europe/Berlin` |
 | `event.days[]` | `date` (JJJJ-MM-TT), `label` (Freitag), `opens`, `closes` (HH:MM; `closes` vor `opens` = nach Mitternacht) |
 | `event.venue` | `name`, `address`, optional `lat`, `lon`, `placeholder` |

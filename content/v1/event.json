@@ -1,10 +1,11 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-23T21:00:00+01:00",
+  "updatedAt": "2026-11-24T06:30:00+01:00",
   "event": {
     "name": "Eschweiler Wiesn",
     "subtitle": "Das größte Oktoberfest der Euregio",
     "edition": "2027",
+    "heroImage": "img/hero.webp",
     "timeZone": "Europe/Berlin",
     "days": [
       {
